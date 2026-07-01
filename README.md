@@ -15,16 +15,15 @@
 >这个项目仅分享本人使用过后觉得十分不错的阅读相关网站后续还有发现也会持续更新的~
 
 
-## 🍀自用导航
+## 🍀 自用导航
 
-1、Yiove 书源仓库
->https://shuyuan.yiove.com/
+<div align="center">
 
-2、源仓库
->https://www.yckceo.com/yuedu/shuyuans/index.html
+| 网站 | 简介 |
+|:---:|:---|
+| 📚 **Yiove 书源仓库** | https://shuyuan.yiove.com/ |
+| 📦 **源仓库** | https://www.yckceo.com/yuedu/shuyuans/index.html |
+| 📖 **Novel** | https://novel.tickmao.com/ |
+| 🌙 **折黎** | https://919089.xyz/ |
 
-3、Novel
->https://novel.tickmao.com/
-
-4、折黎
->https://919089.xyz/
+</div>
