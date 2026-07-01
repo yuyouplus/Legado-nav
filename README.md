@@ -13,10 +13,13 @@
 
 
 1、Yiove 书源仓库
-
 >https://shuyuan.yiove.com/
-
-
 
 2、源仓库
 >https://www.yckceo.com/yuedu/shuyuans/index.html
+
+3、Novel
+>https://novel.tickmao.com/
+
+4、折黎
+>https://919089.xyz/
