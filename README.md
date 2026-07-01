@@ -20,7 +20,7 @@
 
 | 网站 | 简介 | 快速访问 |
 |------|------|---------|
-| 📚 **Yiove** | 优质书源仓库 | **[进入 →](https://shuyuan.yiove.com/)** |
-| 📦 **源仓库** | 海量书源合集 | **[进入 →](https://www.yckceo.com/yuedu/shuyuans/index.html)** |
-| 📖 **Novel** | 小说聚合搜索 | **[进入 →](https://novel.tickmao.com/)** |
-| 🌙 **折黎** | 阅读资源导航 | **[进入 →](https://919089.xyz/)** |
+| 📚 **Yiove** | 源+订阅源 | https://shuyuan.yiove.com/ |
+| 📦 **源仓库** | 源+订阅源 | https://www.yckceo.com/yuedu/shuyuans/index.html |
+| 📖 **Novel** | 源+订阅源 | https://novel.tickmao.com/ |
+| 🌙 **折黎** | 源+订阅源+美化包 | https://919089.xyz/ |
