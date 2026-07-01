@@ -22,5 +22,5 @@
 |------|------|---------|
 | **Yiove** | 源+订阅源 | https://shuyuan.yiove.com/ |
 | **源仓库** | 源+订阅源 | https://www.yckceo.com/yuedu/shuyuans/index.html |
-| **Novel** | 源+订阅源 | https://novel.tickmao.com/ |
-| **折黎** | 源+订阅源+美化包 | https://919089.xyz/ |
+| **Novel** | 源+订阅源+规则+TTS | https://novel.tickmao.com/ |
+| **折黎** | 源+订阅源++规则+TTS+美化包 | https://919089.xyz/ |
