@@ -23,6 +23,6 @@
 | **Yiove** | 源+订阅源 | https://shuyuan.yiove.com/ |
 | **源仓库** | 源+订阅源 | https://www.yckceo.com/yuedu/shuyuans/index.html |
 | **Novel** | 源+订阅源+规则+TTS | https://novel.tickmao.com/ |
-| **折黎** | 源+订阅源++规则+TTS+美化包 | https://919089.xyz/ |
+| **折黎**  | 源+订阅源++规则+TTS+美化包 | https://919089.xyz/ |
 | **阅读版本库** | 安卓热门阅读版本(Plus/Max版等)，实时同步最新版本 | https://legado.gyks.cf/ |
 
