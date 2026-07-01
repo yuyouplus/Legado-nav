@@ -15,22 +15,12 @@
 >这个项目仅分享本人使用过后觉得十分不错的阅读相关网站后续还有发现也会持续更新的~
 
 
-## 🍀 自用导航
-
-| 网站 | 简介 |
-|:---:|:---|
-| **Yiove 书源仓库** | https://shuyuan.yiove.com/ |
-| **源仓库** | https://www.yckceo.com/yuedu/shuyuans/index.html |
-| **Novel** | https://novel.tickmao.com/ |
-| **折黎** | https://919089.xyz/ |
-
 
 ## 🍀 自用导航
 
-[![Yiove](https://img.shields.io/badge/📚-Yiove书源仓库-blue?style=for-the-badge)](https://shuyuan.yiove.com/)
-
-[![源仓库](https://img.shields.io/badge/📦-源仓库-green?style=for-the-badge)](https://www.yckceo.com/yuedu/shuyuans/index.html)
-
-[![Novel](https://img.shields.io/badge/📖-Novel-orange?style=for-the-badge)](https://novel.tickmao.com/)
-
-[![折黎](https://img.shields.io/badge/🌙-折黎-purple?style=for-the-badge)](https://919089.xyz/)
+| 网站 | 简介 | 快速访问 |
+|------|------|---------|
+| 📚 **Yiove** | 优质书源仓库 | **[进入 →](https://shuyuan.yiove.com/)** |
+| 📦 **源仓库** | 海量书源合集 | **[进入 →](https://www.yckceo.com/yuedu/shuyuans/index.html)** |
+| 📖 **Novel** | 小说聚合搜索 | **[进入 →](https://novel.tickmao.com/)** |
+| 🌙 **折黎** | 阅读资源导航 | **[进入 →](https://919089.xyz/)** |
